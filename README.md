@@ -1,4 +1,4 @@
-# clinic-web-demo2
+# web-clinic-demo2
 
 整骨院向け営業デモサイト（西宮市の整骨院【〇〇整骨院】想定）。
 
